@@ -1,0 +1,7 @@
+package ArbolesYGrafos;
+class NodoArbol12 
+{
+	public int claveart;  //el contenido
+	public NodoArbol12 LD;  //lado derecho
+	public NodoArbol12 LI;   //lado izquierdo
+}
